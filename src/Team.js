@@ -28,7 +28,7 @@ const Team = () => {
             </div>
             <div className="info">
                 <h2>Paйxaн Сенгирбаева</h2>
-                <p className="role">Сурдоаудармашы</p>
+                <p className="role">Cурдопедагог</p>
                 <p className="email">E-mail: <a href="mailto:raia_v.i.p@mail.ru">raia_v.i.p@mail.ru</a></p>
                 <p className="phone">Телефон: +77016242892</p>
             </div>
